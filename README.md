@@ -70,6 +70,5 @@ The project lifecycle spans thirteen weeks, starting with problem understanding 
 The "Resume Extraction" project aims to automate the process of extracting relevant information from resumes using Named Entity Recognition (NER) techniques. The project plan outlines the tasks and deliverables for each week, covering problem understanding, data preprocessing, NER model development, performance evaluation, model deployment, and refinement. The project lifecycle spans thirteen weeks, providing a structured approach to effectively tackle the resume extraction problem and enhance HR efficiency through automation.
 
 ## Installation
-* Clone URL : https://github.com/nishchayvaid/Resume-Extraction.git
 * Environment Initialization : conda create -p venv python==3.10 -y
 * Install Packages : pip install -r requirements.txt
